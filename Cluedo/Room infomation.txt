@@ -1,0 +1,10 @@
+Name,DoorKey,DisplayKey
+Kitchen,k,w
+Ballroom,b,x
+Conservatory,c,y
+Games Room,g,z
+Library,l,q
+Study,s,r
+Hall,h,t
+Music Room,m,u
+Dining Room,d,v

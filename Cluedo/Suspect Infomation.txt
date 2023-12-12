@@ -1,0 +1,7 @@
+Name,Start,Colour
+Mrs White,1,15
+Reverend Green,2,2
+Mrs Peacock,3,9
+Professor Plum,4,13
+Miss Scarlett,5,12
+Colonel Mustard,6,7
